@@ -13849,15 +13849,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\chitra\\Documents\\Visual Studio 2017\\Projects\\coredemo\\coredemo\\coredemo.csproj",
+      "projectUniqueName": "C:\\Users\\chitra\\Documents\\Visual Studio 2017\\coredemo\\coredemo\\coredemo.csproj",
       "projectName": "coredemo",
-      "projectPath": "C:\\Users\\chitra\\Documents\\Visual Studio 2017\\Projects\\coredemo\\coredemo\\coredemo.csproj",
+      "projectPath": "C:\\Users\\chitra\\Documents\\Visual Studio 2017\\coredemo\\coredemo\\coredemo.csproj",
       "packagesPath": "C:\\Users\\chitra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chitra\\Documents\\Visual Studio 2017\\Projects\\coredemo\\coredemo\\obj\\",
+      "outputPath": "C:\\Users\\chitra\\Documents\\Visual Studio 2017\\coredemo\\coredemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
