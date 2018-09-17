@@ -9,6 +9,7 @@ namespace coredemo.Enum
     {
         Small,
         Large,
-        Medium
+        Medium,
+        XL
     }
 }
