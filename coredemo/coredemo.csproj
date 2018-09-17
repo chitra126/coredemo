@@ -1,0 +1,52 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TypeScriptToolsVersion>2.5</TypeScriptToolsVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\app\app.component.ts" />
+    <Content Remove="wwwroot\app\app.module.ts" />
+    <Content Remove="wwwroot\app\book-form\book-form.component.ts" />
+    <Content Remove="wwwroot\app\books\books.component.ts" />
+    <Content Remove="wwwroot\app\home\home.component.ts" />
+    <Content Remove="wwwroot\app\main.ts" />
+    <Content Remove="wwwroot\app\models\book.ts" />
+    <Content Remove="wwwroot\app\navmenu\navmenu.component.ts" />
+    <Content Remove="wwwroot\app\services\book.service.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.2.2" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Tools" Version="1.1.0-preview4-final" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+	<DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.1" />
+	<DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\js\jquery-ui\jquery-ui.js" />
+    <None Include="wwwroot\js\jquery-ui\jquery-ui.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="wwwroot\app\app.component.ts" />
+    <TypeScriptCompile Include="wwwroot\app\app.module.ts" />
+    <TypeScriptCompile Include="wwwroot\app\book-form\book-form.component.ts" />
+    <TypeScriptCompile Include="wwwroot\app\books\books.component.ts" />
+    <TypeScriptCompile Include="wwwroot\app\home\home.component.ts" />
+    <TypeScriptCompile Include="wwwroot\app\main.ts" />
+    <TypeScriptCompile Include="wwwroot\app\models\book.ts" />
+    <TypeScriptCompile Include="wwwroot\app\navmenu\navmenu.component.ts" />
+    <TypeScriptCompile Include="wwwroot\app\services\book.service.ts" />
+  </ItemGroup>
+
+</Project>

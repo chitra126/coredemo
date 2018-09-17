@@ -1,0 +1,11 @@
+C:\Users\chitra\Documents\Visual Studio 2017\Projects\coredemo\coredemo\obj\Debug\netcoreapp2.0\coredemo.csproj.CoreCompileInputs.cache
+C:\Users\chitra\Documents\Visual Studio 2017\Projects\coredemo\coredemo\obj\Debug\netcoreapp2.0\coredemo.AssemblyInfoInputs.cache
+C:\Users\chitra\Documents\Visual Studio 2017\Projects\coredemo\coredemo\obj\Debug\netcoreapp2.0\coredemo.AssemblyInfo.cs
+C:\Users\chitra\Documents\Visual Studio 2017\Projects\coredemo\coredemo\bin\Debug\netcoreapp2.0\coredemo.deps.json
+C:\Users\chitra\Documents\Visual Studio 2017\Projects\coredemo\coredemo\bin\Debug\netcoreapp2.0\coredemo.runtimeconfig.json
+C:\Users\chitra\Documents\Visual Studio 2017\Projects\coredemo\coredemo\bin\Debug\netcoreapp2.0\coredemo.runtimeconfig.dev.json
+C:\Users\chitra\Documents\Visual Studio 2017\Projects\coredemo\coredemo\bin\Debug\netcoreapp2.0\coredemo.dll
+C:\Users\chitra\Documents\Visual Studio 2017\Projects\coredemo\coredemo\bin\Debug\netcoreapp2.0\coredemo.pdb
+C:\Users\chitra\Documents\Visual Studio 2017\Projects\coredemo\coredemo\obj\Debug\netcoreapp2.0\coredemo.dll
+C:\Users\chitra\Documents\Visual Studio 2017\Projects\coredemo\coredemo\obj\Debug\netcoreapp2.0\coredemo.pdb
+C:\Users\chitra\Documents\Visual Studio 2017\Projects\coredemo\coredemo\obj\Debug\netcoreapp2.0\coredemo.csprojAssemblyReference.cache
